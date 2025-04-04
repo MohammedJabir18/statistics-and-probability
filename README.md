@@ -1,7 +1,7 @@
 # Statistics and Probability for Data Science 📊 🧮 [![GitHub stars](https://img.shields.io/github/stars/MohammedJabir18/statistics-and-probability?style=social)](https://github.com/MohammedJabir18/statistics-and-probability/stargazers)
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" width="450px" alt="Data Science Animation">
+  <img src="/assets/giphy.gif" width="450px" alt="Data Science Animation">
 </div>
 
 Welcome to my comprehensive Statistics and Probability repository for Data Science. This collection documents my learning journey through fundamental statistical concepts essential for any data scientist.
@@ -223,7 +223,7 @@ This repository serves multiple purposes:
 ## 🔄 Continuous Development
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/media/Winner.gif" width="300px" alt="Continuous Development">
+  <img src="/assets/intro.png" width="300px" alt="Continuous Development">
 </div>
 
 This repository is continuously updated as I progress through my statistics learning journey. Watch this space for:
