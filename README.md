@@ -223,7 +223,7 @@ This repository serves multiple purposes:
 ## 🔄 Continuous Development
 
 <div align="center">
-  <img src="/assets/intro.png" width="300px" alt="Continuous Development">
+  <img src="/assets/technical.png" width="400px" alt="Continuous Development">
 </div>
 
 This repository is continuously updated as I progress through my statistics learning journey. Watch this space for:
